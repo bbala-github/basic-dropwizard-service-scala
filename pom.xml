@@ -9,11 +9,11 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <scala.version>2.11.8</scala.version>
-        <scala.lib.version>2.11</scala.lib.version>
-        <dropwizard.version>1.0.0-rc4</dropwizard.version>
+        <scala.version>2.12.1</scala.version>
+        <scala.lib.version>2.12</scala.lib.version>
+        <dropwizard.version>1.0.0</dropwizard.version>
         <scalatest.version>3.0.0</scalatest.version>
-        <com.fasterxml.jackson.version>2.8.0.rc2</com.fasterxml.jackson.version>
+        <com.fasterxml.jackson.version>2.8.8</com.fasterxml.jackson.version>
     </properties>
 
     <dependencies>
